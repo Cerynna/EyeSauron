@@ -1,0 +1,40 @@
+
+/* **************** */
+/*	STRUCTURE HTML  */
+/* **************** */
+body
+{
+    background-color: #999999;
+}
+
+/* **************** */
+/*	EFFET BOOTSTRAP	*/
+/* **************** */
+[class*="col-xs"], footer {
+    padding: 20px;
+    border: 1px solid black;
+    line-height: 70px;
+    text-align: center;
+    height: 90px;
+}
+
+
+.noir
+{
+    background-color: #656C6B;
+}
+
+.noir2
+{
+    background-color: black;
+}
+
+.orange
+{
+    background-color: orange;
+}
+
+.jaune
+{
+    background-color: yellow;
+}
